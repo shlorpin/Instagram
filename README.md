@@ -123,3 +123,4 @@ C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 0
 [+] Username: Sami09.1
 [+] Password: Sami123
 ```
+[![Run on Repl.it](https://repl.it/badge/github/Pure-L0G1C/Instagram)](https://repl.it/github/Pure-L0G1C/Instagram)
